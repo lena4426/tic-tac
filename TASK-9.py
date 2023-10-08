@@ -1,4 +1,3 @@
-#провера на победу
 import pygame
 import sys
 
